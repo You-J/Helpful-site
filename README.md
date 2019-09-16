@@ -1,5 +1,11 @@
-# oralcedb-node
+# Helpful-site
 
-[Linking oracle db to node js](https://namjackson.tistory.com/12)
+### Here are some sites that helped you when problems occurred during development.
 
-[How to find oracle db's connectString](https://lts0606.tistory.com/183)
+#### oracle db
+
+###
+
+###[Linking oracle db to node js](https://namjackson.tistory.com/12)
+
+###[How to find oracle db's connectString](https://lts0606.tistory.com/183)
