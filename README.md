@@ -3,7 +3,7 @@
 ### Here are some sites that helped you when problems occurred during development.
 
 ### web
-[Decreasing Web by Screen Size]https://tech.devsisters.com/posts/shrinking-webpage
+[Decreasing Web by Screen Size](https://tech.devsisters.com/posts/shrinking-webpage)
 
 ### react-native
 
