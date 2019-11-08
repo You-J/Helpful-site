@@ -5,7 +5,9 @@
 ### web
 ### css
 [Decreasing Web by Screen Size](https://tech.devsisters.com/posts/shrinking-webpage)
+
 [GDG Seoul DevFest 2019 - Vertical Align PPT](https://www.slideshare.net/ssuser22e7fc/gdg-seoul-devfest-2019-vertical-align)
+
 [GDG Seoul DevFest 2019 - Vertical Align YouTube](https://www.youtube.com/watch?v=ee_M_eCOCJ4)
 
 ### react-native
