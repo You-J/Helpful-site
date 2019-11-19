@@ -12,10 +12,8 @@
 
 [GDG Seoul DevFest 2019 - Vertical Align YouTube](https://www.youtube.com/watch?v=ee_M_eCOCJ4)
 
-### react-native
-
-
-### oracle db
+### react hooks
+[React Hooks: 훅마법사의 시대 - useEffect](https://slides.com/rinae/let-you-know-useeffect#/)
 
 ### node js 
 [Linking oracle db to node js](https://namjackson.tistory.com/12)
