@@ -1,9 +1,9 @@
 # Helpful-site
 
-### Here are some sites that helped you when problems occurred during development.
+## Here are some sites that helped you when problems occurred during development.
 
-### web
-### css
+## web
+## css
 [Decreasing Web by Screen Size](https://tech.devsisters.com/posts/shrinking-webpage)
 
 [css box model size](https://webdir.tistory.com/413)
@@ -15,14 +15,14 @@
 ## react
 [How to use recurring components in react](https://velog.io/@public_danuel/trendy-react-multiple-components)
 
-### react hooks
+## react hooks
 [React Hooks: 훅마법사의 시대 - useEffect](https://slides.com/rinae/let-you-know-useeffect#/)
 
-### node js 
+## node js 
 [Linking oracle db to node js](https://namjackson.tistory.com/12)
 
 [How to find oracle db's connectString in node](https://lts0606.tistory.com/183)
 
-### et
+## et
 [about session](https://hyeonstorage.tistory.com/125)
 [about mac setting](https://nesoy.github.io/articles/2018-01/Mac-Terminal)
