@@ -12,6 +12,9 @@
 
 [GDG Seoul DevFest 2019 - Vertical Align YouTube](https://www.youtube.com/watch?v=ee_M_eCOCJ4)
 
+## react
+[How to use recurring components in react](https://velog.io/@public_danuel/trendy-react-multiple-components)
+
 ### react hooks
 [React Hooks: 훅마법사의 시대 - useEffect](https://slides.com/rinae/let-you-know-useeffect#/)
 
