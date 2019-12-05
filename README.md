@@ -27,5 +27,4 @@ Here are some sites that helped you when problems occurred during development.
 
 ## et
 >[about session](https://hyeonstorage.tistory.com/125)
-
 >[about mac setting](https://nesoy.github.io/articles/2018-01/Mac-Terminal)
