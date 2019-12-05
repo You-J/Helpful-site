@@ -1,6 +1,6 @@
 # Helpful-site
 
-## Here are some sites that helped you when problems occurred during development.
+Here are some sites that helped you when problems occurred during development.
 
 ## web
 ## css
