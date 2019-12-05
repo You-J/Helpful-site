@@ -13,11 +13,12 @@ Here are some sites that helped you when problems occurred during development.
 [GDG Seoul DevFest 2019 - Vertical Align YouTube](https://www.youtube.com/watch?v=ee_M_eCOCJ4)
 
 ## react
-[How to use recurring components in react](https://velog.io/@public_danuel/trendy-react-multiple-components)
-
-[What is atomic design](https://brunch.co.kr/@ultra0034/63)
-
-[React Hooks: 훅마법사의 시대 - useEffect](https://slides.com/rinae/let-you-know-useeffect#/)
+> [How to use recurring components in react](https://velog.io/@public_danuel/trendy-react-multiple-components)
+>
+> [What is atomic design](https://brunch.co.kr/@ultra0034/63)
+>
+>
+> [React Hooks: 훅마법사의 시대 - useEffect](https://slides.com/rinae/let-you-know-useeffect#/)
 
 ## node js 
 [Linking oracle db to node js](https://namjackson.tistory.com/12)
