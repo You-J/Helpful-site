@@ -29,3 +29,8 @@ Here are some sites that helped you when problems occurred during development.
 >[about session](https://hyeonstorage.tistory.com/125)
 >
 >[about mac setting](https://nesoy.github.io/articles/2018-01/Mac-Terminal)
+
+
+## atomic design pattern
+>[아토믹 디자인 패턴으로 디자이너와 협업하기](https://speakerdeck.com/feel5ny/atomig-paeteoneuro-dijaineowa-hyeobeobhagi?slide=46)
+>
