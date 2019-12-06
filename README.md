@@ -15,8 +15,6 @@ Here are some sites that helped you when problems occurred during development.
 ## react
 > [How to use recurring components in react](https://velog.io/@public_danuel/trendy-react-multiple-components)
 >
-> [What is atomic design](https://brunch.co.kr/@ultra0034/63)
->
 >
 > [React Hooks: 훅마법사의 시대 - useEffect](https://slides.com/rinae/let-you-know-useeffect#/)
 
@@ -34,3 +32,4 @@ Here are some sites that helped you when problems occurred during development.
 ## atomic design pattern
 >[아토믹 디자인 패턴으로 디자이너와 협업하기](https://speakerdeck.com/feel5ny/atomig-paeteoneuro-dijaineowa-hyeobeobhagi?slide=46)
 >
+> [What is atomic design](https://brunch.co.kr/@ultra0034/63)
