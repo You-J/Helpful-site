@@ -26,6 +26,8 @@ Here are some sites that helped you when problems occurred during development.
 >
 >
 > [React Hooks: 훅마법사의 시대 - useEffect](https://slides.com/rinae/let-you-know-useeffect#/)
+> [useRef](https://velog.io/@public_danuel/trendy-react-useref)
+
 
 ## node js 
 >[Linking oracle db to node js](https://namjackson.tistory.com/12)
