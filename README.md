@@ -3,6 +3,11 @@
 Here are some sites that helped you when problems occurred during development.
 
 ## web
+
+>[해시뱅(#!)에 대해서...](https://blog.outsider.ne.kr/698)
+>
+>[Single Page Application & Routing](https://poiemaweb.com/js-spa#33-hash-%EB%B0%A9%EC%8B%9D)
+
 ## css
 >[Decreasing Web by Screen Size](https://tech.devsisters.com/posts/shrinking-webpage)
 >
@@ -15,10 +20,6 @@ Here are some sites that helped you when problems occurred during development.
 >[bulma builder](https://bulma.dev/)
 >
 >[Learn Bulma CSS in 5 minutes - A tutorial for beginners](https://www.freecodecamp.org/news/learn-bulma-in-5-minutes-ec5188c53e83/)
-
->[해시뱅(#!)에 대해서...](https://blog.outsider.ne.kr/698)
->
->[Single Page Application & Routing](https://poiemaweb.com/js-spa#33-hash-%EB%B0%A9%EC%8B%9D)
 
 ## react
 > [How to use recurring components in react](https://velog.io/@public_danuel/trendy-react-multiple-components)
