@@ -21,6 +21,10 @@ Here are some sites that helped you when problems occurred during development.
 >
 >[Learn Bulma CSS in 5 minutes - A tutorial for beginners](https://www.freecodecamp.org/news/learn-bulma-in-5-minutes-ec5188c53e83/)
 
+## sass
+>>[Sass 강좌 – 한 눈에 보기](https://velopert.com/1712)
+>>
+
 ## react
 > [How to use recurring components in react](https://velog.io/@public_danuel/trendy-react-multiple-components)
 >
