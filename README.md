@@ -6,7 +6,8 @@ Here are some sites that helped you when problems occurred during development.
 
 >[해시뱅(#!)에 대해서...](https://blog.outsider.ne.kr/698)
 >
->[Single Page Application & Routing](https://poiemaweb.com/js-spa#33-hash-%EB%B0%A9%EC%8B%9D)>
+>[Single Page Application & Routing](https://poiemaweb.com/js-spa#33-hash-%EB%B0%A9%EC%8B%9D)
+>
 >[웹팩의 기본 개념](http://jeonghwan-kim.github.io/js/2017/05/15/webpack.html)
 
 ## css
