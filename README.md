@@ -4,6 +4,9 @@ Here are some sites that helped you when problems occurred during development.
 
 ## web
 
+## js
+>[JavaScript 호이스팅(Hoisting)이란](https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html)
+>
 >[해시뱅(#!)에 대해서...](https://blog.outsider.ne.kr/698)
 >
 >[Single Page Application & Routing](https://poiemaweb.com/js-spa#33-hash-%EB%B0%A9%EC%8B%9D)
