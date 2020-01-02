@@ -11,6 +11,9 @@ Here are some sites that helped you when problems occurred during development.
 >[웹팩의 기본 개념](http://jeonghwan-kim.github.io/js/2017/05/15/webpack.html)
 >
 >[다양한 방식의 리액트 컴포넌트 스타일링 방식](https://velog.io/@velopert/react-component-styling)
+>
+>[Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
+
 
 ## css
 >[Decreasing Web by Screen Size](https://tech.devsisters.com/posts/shrinking-webpage)
