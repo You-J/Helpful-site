@@ -28,6 +28,15 @@ Here are some sites that helped you when problems occurred during development.
 ## sass
 >[Sass 강좌 – 한 눈에 보기](https://velopert.com/1712)
 >
+>[Sass - @each](https://sass-lang.com/documentation/at-rules/control/each)
+>
+>[Using Sass Maps](https://www.sitepoint.com/using-sass-maps/)
+>
+>[Sass Guidelines](https://sass-guidelin.es/ko/#section-13)
+
+## SCSS
+>
+>
 
 ## react
 > [How to use recurring components in react](https://velog.io/@public_danuel/trendy-react-multiple-components)
