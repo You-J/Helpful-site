@@ -46,6 +46,7 @@ Here are some sites that helped you when problems occurred during development.
 >[about session](https://hyeonstorage.tistory.com/125)
 >
 >[about mac setting](https://nesoy.github.io/articles/2018-01/Mac-Terminal)
+>[DevFest WebTech CodeLab](https://eunajjing.github.io/2019/12/31/webtech/)
 
 
 ## atomic design pattern
