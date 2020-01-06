@@ -5,6 +5,8 @@ Here are some sites that helped you when problems occurred during development.
 ## web
 
 ## js
+>[javascript-object](http://insanehong.kr/post/javascript-object/)
+>
 >[JavaScript 호이스팅(Hoisting)이란](https://gmlwjd9405.github.io/2019/04/22/javascript-hoisting.html)
 >
 >[해시뱅(#!)에 대해서...](https://blog.outsider.ne.kr/698)
