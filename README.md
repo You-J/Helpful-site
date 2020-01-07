@@ -69,6 +69,10 @@ Here are some sites that helped you when problems occurred during development.
 >
 >[좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 
+## React-Intl
+>[How to insert HTML tag with injectIntl formatMessage using React-Intl ?](https://github.com/formatjs/react-intl/issues/1255)
+>
+
 ## atomic design pattern
 >[아토믹 디자인 패턴으로 디자이너와 협업하기](https://speakerdeck.com/feel5ny/atomig-paeteoneuro-dijaineowa-hyeobeobhagi?slide=46)
 >
