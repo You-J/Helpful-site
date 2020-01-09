@@ -32,6 +32,9 @@ Here are some sites that helped you when problems occurred during development.
 >[bulma builder](https://bulma.dev/)
 >
 >[Learn Bulma CSS in 5 minutes - A tutorial for beginners](https://www.freecodecamp.org/news/learn-bulma-in-5-minutes-ec5188c53e83/)
+>
+>[반드시 기억해야 하는 CSS 선택자 30개](https://code.tutsplus.com/ko/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
+
 
 ## sass
 >[Sass 강좌 – 한 눈에 보기](https://velopert.com/1712)
