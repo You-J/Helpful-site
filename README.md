@@ -71,6 +71,7 @@ Here are some sites that helped you when problems occurred during development.
 >[DevFest WebTech CodeLab](https://eunajjing.github.io/2019/12/31/webtech/)
 >
 >[좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
+>
 >[How do I use favicons-webpack-plugin with react-static?](https://github.com/react-static/react-static/issues/431)
 
 ## React-Intl
