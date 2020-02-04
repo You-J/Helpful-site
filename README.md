@@ -18,7 +18,8 @@ Here are some sites that helped you when problems occurred during development.
 >[다양한 방식의 리액트 컴포넌트 스타일링 방식](https://velog.io/@velopert/react-component-styling)
 >
 >[Technical Interview Guidelines for beginners](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
-
+>
+>[clean-code-javascript-ko](https://github.com/qkraudghgh/clean-code-javascript-ko)
 
 ## css
 >[Decreasing Web by Screen Size](https://tech.devsisters.com/posts/shrinking-webpage)
