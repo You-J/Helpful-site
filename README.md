@@ -77,6 +77,8 @@ Here are some sites that helped you when problems occurred during development.
 >[좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
 >
 >[How do I use favicons-webpack-plugin with react-static?](https://github.com/react-static/react-static/issues/431)
+>
+>[BBEdit, 정규표현식](https://apps.apple.com/kr/story/id1485320067)
 
 ## React-Intl
 >[How to insert HTML tag with injectIntl formatMessage using React-Intl ?](https://github.com/formatjs/react-intl/issues/1255)
