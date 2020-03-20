@@ -86,6 +86,10 @@ Here are some sites that helped you when problems occurred during development.
 >[How do I use favicons-webpack-plugin with react-static?](https://github.com/react-static/react-static/issues/431)
 >
 >[BBEdit, 정규표현식](https://apps.apple.com/kr/story/id1485320067)
+>
+>[변수 이름 짓기 좋은 사이트](https://curioustore.com/#!/)
+>
+>[bool 변수 이름 짓기](https://soojin.ro/blog/naming-boolean-variables)
 
 ## React-Intl
 >[How to insert HTML tag with injectIntl formatMessage using React-Intl ?](https://github.com/formatjs/react-intl/issues/1255)
