@@ -67,7 +67,8 @@ Here are some sites that helped you when problems occurred during development.
 >[hooks react-router v5.1.7](https://dev.to/finallynero/hooks-introduced-in-react-router-v5-1-7g8)
 >
 >[react hook form ](https://react-hook-form.com/get-started/#Quickstart)
-
+>
+>[How to create PDFs from React components client side solution](https://medium.com/@shivekkhurana/how-to-create-pdfs-from-react-components-client-side-solution-7f506d9dfa6d)
 
 ## node js 
 >[Linking oracle db to node js](https://namjackson.tistory.com/12)
