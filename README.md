@@ -69,6 +69,10 @@ Here are some sites that helped you when problems occurred during development.
 >[react hook form ](https://react-hook-form.com/get-started/#Quickstart)
 >
 >[How to create PDFs from React components client side solution](https://medium.com/@shivekkhurana/how-to-create-pdfs-from-react-components-client-side-solution-7f506d9dfa6d)
+>
+>[Open a PDF in React on the Web](https://pspdfkit.com/blog/2018/open-pdf-in-react/)
+>
+>[react-to-pdf](https://www.npmjs.com/package/react-to-pdf)
 
 ## node js 
 >[Linking oracle db to node js](https://namjackson.tistory.com/12)
