@@ -73,6 +73,12 @@ Here are some sites that helped you when problems occurred during development.
 >[Open a PDF in React on the Web](https://pspdfkit.com/blog/2018/open-pdf-in-react/)
 >
 >[react-to-pdf](https://www.npmjs.com/package/react-to-pdf)
+>>
+>>[redux-form](https://redux-form.com/8.3.0/examples/wizard/)
+>>
+>
+
+
 
 ## node js 
 >[Linking oracle db to node js](https://namjackson.tistory.com/12)
