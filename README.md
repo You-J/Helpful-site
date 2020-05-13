@@ -23,6 +23,8 @@ Here are some sites that helped you when problems occurred during development.
 >
 >[날짜와 시간을 위한 Date 객체](https://poiemaweb.com/js-date)
 >
+>[Get String in YYYYMMDD format from JS date object?](https://stackoverflow.com/questions/3066586/get-string-in-yyyymmdd-format-from-js-date-object)
+>
 >[앤트 디자인 - 어드민 개발을 위한 프레임웍](http://jeonghwan-kim.github.io/2018/10/13/ant-design-101.html#%EC%98%A8%EB%94%94%EB%A7%A8%EB%93%9C-%EB%B2%88%EB%93%A4%EB%A7%81)
 >
 >[script의 async와 defer 속성](https://blog.asamaru.net/2017/05/04/script-async-defer/)
