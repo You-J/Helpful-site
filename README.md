@@ -109,6 +109,8 @@ Here are some sites that helped you when problems occurred during development.
 >[bool 변수 이름 짓기](https://soojin.ro/blog/naming-boolean-variables)
 >
 >[kr-postposition](https://github.com/cheerun/kr-postposition#readme)
+>
+>[실용주의 프런트 엔드 개발](https://peter-cho.gitbook.io/book/)
 
 ## React-Intl
 >[How to insert HTML tag with injectIntl formatMessage using React-Intl ?](https://github.com/formatjs/react-intl/issues/1255)
