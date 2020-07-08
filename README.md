@@ -113,6 +113,8 @@ Here are some sites that helped you when problems occurred during development.
 >[실용주의 프런트 엔드 개발](https://peter-cho.gitbook.io/book/)
 >
 >[Axios 러닝 가이드](https://yamoo9.github.io/axios/)
+>
+>[issue: Support raw HTML in translation values](https://github.com/i18next/react-i18next/issues/189)
 
 ## React-Intl
 >[How to insert HTML tag with injectIntl formatMessage using React-Intl ?](https://github.com/formatjs/react-intl/issues/1255)
@@ -122,3 +124,4 @@ Here are some sites that helped you when problems occurred during development.
 >[아토믹 디자인 패턴으로 디자이너와 협업하기](https://speakerdeck.com/feel5ny/atomig-paeteoneuro-dijaineowa-hyeobeobhagi?slide=46)
 >
 > [What is atomic design](https://brunch.co.kr/@ultra0034/63)
+
