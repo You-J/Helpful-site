@@ -30,7 +30,8 @@ Here are some sites that helped you when problems occurred during development.
 >[script의 async와 defer 속성](https://blog.asamaru.net/2017/05/04/script-async-defer/)
 >
 >[javascript prototype](https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67)
-
+>
+>[stackoverflow : why is 0 false?](https://stackoverflow.com/questions/47015361/why-is-0-false)
 ## css
 >[Decreasing Web by Screen Size](https://tech.devsisters.com/posts/shrinking-webpage)
 >
