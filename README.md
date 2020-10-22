@@ -126,3 +126,6 @@ Here are some sites that helped you when problems occurred during development.
 >
 > [What is atomic design](https://brunch.co.kr/@ultra0034/63)
 
+
+## issue
+>[Format on Save (prettier) stopped working with latest update](https://github.com/microsoft/vscode/issues/108447)
