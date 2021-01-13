@@ -32,6 +32,8 @@ Here are some sites that helped you when problems occurred during development.
 >[javascript prototype](https://medium.com/@bluesh55/javascript-prototype-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-f8e67c286b67)
 >
 >[stackoverflow : why is 0 false?](https://stackoverflow.com/questions/47015361/why-is-0-false)
+
+
 ## css
 >[Decreasing Web by Screen Size](https://tech.devsisters.com/posts/shrinking-webpage)
 >
@@ -116,6 +118,8 @@ Here are some sites that helped you when problems occurred during development.
 >[Axios 러닝 가이드](https://yamoo9.github.io/axios/)
 >
 >[issue: Support raw HTML in translation values](https://github.com/i18next/react-i18next/issues/189)
+>
+>[프로덕트 스펙 문서 작성법](https://brunch.co.kr/@hj-kang/2)
 
 ## React-Intl
 >[How to insert HTML tag with injectIntl formatMessage using React-Intl ?](https://github.com/formatjs/react-intl/issues/1255)
