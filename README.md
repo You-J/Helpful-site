@@ -120,6 +120,8 @@ Here are some sites that helped you when problems occurred during development.
 >[issue: Support raw HTML in translation values](https://github.com/i18next/react-i18next/issues/189)
 >
 >[프로덕트 스펙 문서 작성법](https://brunch.co.kr/@hj-kang/2)
+>
+>[techKakao gql](https://tech.kakao.com/2019/08/01/graphql-basic/)
 
 ## React-Intl
 >[How to insert HTML tag with injectIntl formatMessage using React-Intl ?](https://github.com/formatjs/react-intl/issues/1255)
